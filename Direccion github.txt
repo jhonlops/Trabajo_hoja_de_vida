@@ -2,4 +2,5 @@
 dirección del repositorio en GitHub:
 
 
-https://github.com/jhonlops/trabajo_final_primer_modulo.git
+
+https://github.com/jhonlops/Trabajo_hoja_de_vida
